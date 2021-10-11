@@ -15,6 +15,7 @@ body {
 
 .btn {
     width: 90vw;
+    font-size: 40px;
 }
 
 
@@ -23,6 +24,7 @@ body {
 @media only screen and (min-width: 992px) {
     .btn {
         width: 400px;
+        font-size: 14px;
     }
 }
 
@@ -52,7 +54,6 @@ body {
     margin-bottom: 20px;
     text-transform: uppercase;
     font-weight: bold;
-    font-size: 14px;
     transition: all .15s ease;
 }
 
